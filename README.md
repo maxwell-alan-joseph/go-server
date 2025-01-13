@@ -37,6 +37,12 @@ A simple HTTP server written in Go, capable of handling different routes and ser
   
     http://localhost:8080/form for the form submission.
 
+### Contributing
+
+  Feel free to fork this repository and submit a pull request with improvements or new features!
+
+
+
 
 
 
