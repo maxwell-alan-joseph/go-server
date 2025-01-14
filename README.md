@@ -2,6 +2,8 @@
 
 A simple HTTP server written in Go, capable of handling different routes and serving static files. This project demonstrates basic Go web development concepts.
 
+[Architectural Diagram](./assets/Go_Server.drawio.png)  
+
 ## Features
 
 - Serves static HTML files.
